@@ -58,22 +58,22 @@ This project implements these foundational mechanisms using structured **OOP (Ob
 
 ## 📸 Screenshots
 
-### 1️⃣ Game Launch Interface
+### 1. Game Launch Interface
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e6227ff-35a8-42a2-88f0-6d558233afeb" width="350"/>
 </p>
 
-### 2️⃣ Gameplay in Progress
+### 2. Gameplay in Progress
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77942a67-b94d-4ad2-ba5b-5a50e4bb5b45" width="350"/>
 </p>
 
-### 3️⃣ Line Clearance Animation
+### 3. Line Clearance Animation
 <p align="center">
   <img src="https://github.com/user-attachments/assets/519390b7-5a2f-474c-9e22-d7b82b49daa6" width="350"/>
 </p>
 
-### 4️⃣ Game Over Screen
+### 4. Game Over Screen
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6a6c1e4-b126-409c-abaa-cc1761ee3e43" width="350"/>
 </p>
