@@ -56,17 +56,28 @@ This project implements these foundational mechanisms using structured **OOP (Ob
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 1️⃣ Game Launch Interface
-![Game Launch Interface](https://github.com/user-attachments/assets/6e6227ff-35a8-42a2-88f0-6d558233afeb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e6227ff-35a8-42a2-88f0-6d558233afeb" width="350"/>
+</p>
 
 ### 2️⃣ Gameplay in Progress
-![Gameplay in Progress](https://github.com/user-attachments/assets/77942a67-b94d-4ad2-ba5b-5a50e4bb5b45)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77942a67-b94d-4ad2-ba5b-5a50e4bb5b45" width="350"/>
+</p>
 
 ### 3️⃣ Line Clearance Animation
-![Line Clearance Animation](https://github.com/user-attachments/assets/519390b7-5a2f-474c-9e22-d7b82b49daa6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/519390b7-5a2f-474c-9e22-d7b82b49daa6" width="350"/>
+</p>
 
 ### 4️⃣ Game Over Screen
-![Game Over Screen](https://github.com/user-attachments/assets/d6a6c1e4-b126-409c-abaa-cc1761ee3e43)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6a6c1e4-b126-409c-abaa-cc1761ee3e43" width="350"/>
+</p>
+
 
 
 
@@ -93,11 +104,3 @@ This project demonstrates:
 
 ---
 
-## 🤝 Contribution
-
-Feel free to fork the repo, suggest improvements, or add your own creative twist — like new sound effects, additional shapes, or different themes.
-
----
-
-⭐ **Star this repository** if you enjoyed the game or learned something new from it.  
-📬 Connect on GitHub to see more projects like this!
