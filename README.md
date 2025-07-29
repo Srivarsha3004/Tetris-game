@@ -56,8 +56,6 @@ This project implements these foundational mechanisms using structured **OOP (Ob
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 1. Game Launch Interface
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e6227ff-35a8-42a2-88f0-6d558233afeb" width="350"/>
@@ -77,10 +75,6 @@ This project implements these foundational mechanisms using structured **OOP (Ob
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6a6c1e4-b126-409c-abaa-cc1761ee3e43" width="350"/>
 </p>
-
-
-
-
 ---
 
 ## 🧪 Learning Outcomes
