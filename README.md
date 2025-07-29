@@ -57,16 +57,12 @@ This project implements these foundational mechanisms using structured **OOP (Ob
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="![1](https://github.com/user-attachments/assets/6e6227ff-35a8-42a2-88f0-6d558233afeb)
-" />
-  <img src="![2](https://github.com/user-attachments/assets/77942a67-b94d-4ad2-ba5b-5a50e4bb5b45)
-" />
-  <img src="![3](https://github.com/user-attachments/assets/519390b7-5a2f-474c-9e22-d7b82b49daa6)
-" />
-  <img src="![4](https://github.com/user-attachments/assets/d6a6c1e4-b126-409c-abaa-cc1761ee3e43)
-
-" />
+  <img src="https://github.com/user-attachments/assets/6e6227ff-35a8-42a2-88f0-6d558233afeb" width="250" alt="Tetris Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/77942a67-b94d-4ad2-ba5b-5a50e4bb5b45" width="250" alt="Tetris Screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/519390b7-5a2f-474c-9e22-d7b82b49daa6" width="250" alt="Tetris Screenshot 3" />
+  <img src="https://github.com/user-attachments/assets/d6a6c1e4-b126-409c-abaa-cc1761ee3e43" width="250" alt="Tetris Screenshot 4" />
 </p>
+
 
 ---
 
