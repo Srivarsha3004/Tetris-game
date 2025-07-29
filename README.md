@@ -75,8 +75,6 @@ This project implements these foundational mechanisms using structured **OOP (Ob
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6a6c1e4-b126-409c-abaa-cc1761ee3e43" width="350"/>
 </p>
----
-
 ## 🧪 Learning Outcomes
 
 This project demonstrates:
